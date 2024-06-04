@@ -1,0 +1,11 @@
+{
+  "name": "@rab-dev/test-npm-package",
+  "version": "1.0.0",
+  "description": "Experiment to understand how to publish an npm package on github",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
