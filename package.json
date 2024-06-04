@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Experiment to understand how to publish an npm package on github",
   "main": "index.js",
+  "publishConfig": {
+    "@rab-dev:registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "test": "exit 0"
   },
